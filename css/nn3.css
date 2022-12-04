@@ -25,12 +25,17 @@
 
 /*����*/
 #web_bg {
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     /* ����ͼ��ĵ�ַ��url�����  */
     background: url();
     /* ����ͼ���ظ� */
     background-repeat: no-repeat;
     /* ����ͼ���С */
     background-size: cover;
+}
+/*͸����0.5*/
+.layout_post > #post {
+    background: rgba(255,255,255,.5);
 }
 /* ����ҳ���� */
 .layout > div:first-child:not(.recent-posts) {
