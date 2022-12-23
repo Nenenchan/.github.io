@@ -58,6 +58,27 @@
 ]]></content>
   </entry>
   <entry>
+    <title>l2d笔记</title>
+    <url>/2022/12/22/l2d%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="live2d学习第一天（第1-5天）"><a href="#live2d学习第一天（第1-5天）" class="headerlink" title="live2d学习第一天（第1.5天）"></a>live2d学习第一天（第1.5天）</h2><p>前一天晚上完成了oc1的qq人绘制及拆分，<strong>一抬头就十点多了！！</strong>拆分偷走时间！！！！  总而言之——</p>
+<h3 id="拆分注意的几点："><a href="#拆分注意的几点：" class="headerlink" title="拆分注意的几点："></a>拆分注意的几点：</h3><ul>
+<li> 眼睛包括：上睫毛（碎睫毛两三根）；眼白；瞳孔（高光）；下睫毛。  </li>
+<li> 嘴巴：上下嘴唇（要连着一截皮肤），口腔（比嘴巴大一点，方便动作）。</li>
+<li> 头发分到每根发丝儿，不过还没到那么高可动性的一步。  </li>
+<li><strong>一定要记得存一份线稿！！</strong>防止后面改麻烦。  </li>
+<li>etc…  <h3 id="学习过程"><a href="#学习过程" class="headerlink" title="学习过程"></a>学习过程</h3></li>
+</ul>
+<ol>
+<li>将psd导入，为各图层改名（最好在原稿改方便后面更改不过procreate实在麻烦），这样方便后面工作。  </li>
+<li>布点！讲人话是给部件加上移动点，目前感觉可以用自动布+手动，但是眼睛眉毛什么的还是得手动，优雅的三角形法！！  </li>
+<li>参数！开始做动作了，简单说是设置好两三个关键帧的状态，剩下的软件帮你完成。e.g.睁眼闭眼需调好全睁与全闭时各部件状态。  </li>
+</ol>
+]]></content>
+      <tags>
+        <tag>study</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>WARNING！！</title>
     <url>/2022/12/05/WARNING!/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="我是个傻逼！"><a href="#我是个傻逼！" class="headerlink" title="我是个傻逼！"></a>我是个傻逼！</h1><p>昨晚收到关于css插入出现的问题的答复，今天兴奋地把错误给改了，又改了些别的什么（已经忘了），然后<strong>美美error</strong>  </p>
@@ -87,27 +108,6 @@
 ]]></content>
       <tags>
         <tag>life pieces</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>l2d笔记</title>
-    <url>/2022/12/22/l2d%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="live2d学习第一天（第1-5天）"><a href="#live2d学习第一天（第1-5天）" class="headerlink" title="live2d学习第一天（第1.5天）"></a>live2d学习第一天（第1.5天）</h2><p>前一天晚上完成了oc1的qq人绘制及拆分，<strong>一抬头就十点多了！！</strong>拆分偷走时间！！！！  总而言之——</p>
-<h3 id="拆分注意的几点："><a href="#拆分注意的几点：" class="headerlink" title="拆分注意的几点："></a>拆分注意的几点：</h3><ul>
-<li> 眼睛包括：上睫毛（碎睫毛两三根）；眼白；瞳孔（高光）；下睫毛。  </li>
-<li> 嘴巴：上下嘴唇（要连着一截皮肤），口腔（比嘴巴大一点，方便动作）。</li>
-<li> 头发分到每根发丝儿，不过还没到那么高可动性的一步。  </li>
-<li><strong>一定要记得存一份线稿！！</strong>防止后面改麻烦。  </li>
-<li>etc…  <h3 id="学习过程"><a href="#学习过程" class="headerlink" title="学习过程"></a>学习过程</h3></li>
-</ul>
-<ol>
-<li>将psd导入，为各图层改名（最好在原稿改方便后面更改不过procreate实在麻烦），这样方便后面工作。  </li>
-<li>布点！讲人话是给部件加上移动点，目前感觉可以用自动布+手动，但是眼睛眉毛什么的还是得手动，优雅的三角形法！！  </li>
-<li>参数！开始做动作了，简单说是设置好两三个关键帧的状态，剩下的软件帮你完成。e.g.睁眼闭眼需调好全睁与全闭时各部件状态。  </li>
-</ol>
-]]></content>
-      <tags>
-        <tag>study</tag>
       </tags>
   </entry>
   <entry>
